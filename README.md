@@ -12,6 +12,8 @@ Great for when you are trying to get through SSL connections while using DNS poi
 You will need a cert:  
 ```openssl req -x509 -nodes -newkey rsa:2048 -keyout server.pem -out server.pem```  
   
-~~It doesn't really extract much as I am just commiting this to be able to retrieve and finish it later, hopefuly I will remember to update this in the future.~~
-Done! It does more useful stuff now.
+~~It doesn't really extract much as I am just commiting this to be able to retrieve and finish it later, hopefuly I will remember to update this in the future.~~ 
+
+Done! It does more useful stuff now. 
+
 Good Luck!
